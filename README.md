@@ -14,7 +14,7 @@ Humans exhibit “agreement‐attraction” illusions: a plural noun (“attract
 ├── COGS150_FinalProject_Agreement.ipynb    # primary notebook
 ├── README.md                               # this file
 ├── .gitignore                              # git ignore file
-└── requirements.txt                        # pinned Python dependencies
+└── requirements.txt                        # Python dependencies
 
 ## Getting Started
 
