@@ -2,6 +2,7 @@
 
 **Course**: COGS 150: Large Language Models, UCSD  
 **Author**: Andrew Gibson (Andy)
+**Professor**: Sean Trott
 
 ## Project Overview
 
